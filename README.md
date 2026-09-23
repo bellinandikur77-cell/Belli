@@ -189,7 +189,6 @@ ECE gives me an edge I want to use: I don't treat the machine as a black box.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bellinandikur77-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellinandikur77-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
