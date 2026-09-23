@@ -188,7 +188,7 @@ ECE gives me an edge I want to use: I don't treat the machine as a black box.
 ## 📊 GitHub Stats
 
 
-
+<div align="center">
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=bellinandikur77-cell&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
