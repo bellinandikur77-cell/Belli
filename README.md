@@ -187,9 +187,7 @@ ECE gives me an edge I want to use: I don't treat the machine as a black box.
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellinandikur77-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <br/>
 
@@ -197,9 +195,7 @@ ECE gives me an edge I want to use: I don't treat the machine as a black box.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bellinandikur77-cell&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
 
-</div>
 
 <!-- Stats stay empty until you start pushing code. That's the motivation. 😄 -->
 
